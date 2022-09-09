@@ -43,3 +43,12 @@ Changes to be committed:
 	new file:   README.md
 	new file:   answers.md
 
+On branch master
+nothing to commit, working tree clean
+Answer 8
+commit ac1a23358edb3177d1178187c812c2b8c9e5807e
+Author: Luke Welday <lw209721@ohio.edu>
+Date:   Fri Sep 9 16:54:15 2022 -0400
+
+    Initial commit
+Answer 9
