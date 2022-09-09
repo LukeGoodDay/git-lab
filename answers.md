@@ -58,3 +58,8 @@ Your branch is ahead of 'origin/main' by 1 commit.
 
 nothing to commit, working tree clean
 Answer 10
+Yes, the changes were in the local copy.
+Answer 11
+It was rejected.
+Answer 12
+Yes, the changes are now updated in the local copy.
