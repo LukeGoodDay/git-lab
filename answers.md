@@ -42,7 +42,7 @@ Changes to be committed:
 
 	new file:   README.md
 	new file:   answers.md
-
+Answer 7
 On branch master
 nothing to commit, working tree clean
 Answer 8
@@ -63,3 +63,9 @@ Answer 11
 It was rejected.
 Answer 12
 Yes, the changes are now updated in the local copy.
+Answer 13
+.
+..
+git-lab-2
+Labs
+/*
