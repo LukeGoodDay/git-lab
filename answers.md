@@ -52,3 +52,9 @@ Date:   Fri Sep 9 16:54:15 2022 -0400
 
     Initial commit
 Answer 9
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+Answer 10
